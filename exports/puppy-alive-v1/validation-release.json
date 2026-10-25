@@ -1,0 +1,15 @@
+{
+  "emotion_and_comparison_selections": 174,
+  "clips": 30,
+  "offline_native_gifs": 71,
+  "three_pack_pairs": true,
+  "missing_extensions_explicit": true,
+  "playground": true,
+  "system_priority": true,
+  "local_file": true,
+  "png_export": true,
+  "mobile_no_overflow": true,
+  "page_errors": [],
+  "browser": "Chromium",
+  "archive": "build/puppy-alive-v1/puppy-alive-v1-viewer.zip"
+}

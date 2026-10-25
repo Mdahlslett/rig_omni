@@ -1,0 +1,7 @@
+{
+  "eaf_files": 117,
+  "exact_rgba_frames": 9627,
+  "corruption_detected": true,
+  "decoder": "Existing strict JS codec following installed C decoder",
+  "hardware_tested": false
+}

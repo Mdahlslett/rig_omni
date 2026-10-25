@@ -1,0 +1,9 @@
+{
+  "files": 117,
+  "frames": 9627,
+  "source": "managed_components/espressif2022__esp_emote_gfx/src/lib/eaf/gfx_eaf_dec.c",
+  "source_sha256": "61931bc0f6f8c1fe28e7efd491a0b15ca659267c285f9a913aeff23dd94f6c96",
+  "actual_unmodified_c_decoder": true,
+  "host_stubs": "ESP logging/error macros; optional JPEG/heatshrink disabled",
+  "hardware_tested": false
+}

@@ -1,0 +1,34 @@
+{
+  "partition_bytes": 8388608,
+  "profiles": [
+    {
+      "profile": "standard",
+      "resource_bytes": 4514009,
+      "packed_bytes": 6345811,
+      "fits": true,
+      "free_bytes": 2042797,
+      "region": "domestic",
+      "all_references_verified": true
+    },
+    {
+      "profile": "extended",
+      "resource_bytes": 6037239,
+      "packed_bytes": 7870975,
+      "fits": true,
+      "free_bytes": 517633,
+      "region": "domestic",
+      "all_references_verified": true
+    },
+    {
+      "profile": "extended-intensity",
+      "resource_bytes": 16573251,
+      "fits": false,
+      "reason": "EAF resources alone exceed partition"
+    }
+  ],
+  "all_preview_eaf_bytes": 17870149,
+  "rgb565_full_frame_bytes": 115200,
+  "double_stripe_psram_bytes": 15360,
+  "internal_dma_bounce_bytes": 15360,
+  "hardware_tested": false
+}
